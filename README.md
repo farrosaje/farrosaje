@@ -24,10 +24,14 @@ Halo! Saya **Farros Abdurrohman**, dan ini adalah repositori GitHub saya. Saya s
 
 Berikut adalah Alat yang saya gunakan:
 
-- **Tools**: **Arduino IDE,Node jS,Laravel,AWS(Amazon Web Services),Cli,AI(Deepseek,Chatgpt)**
+**Tools**: **Arduino IDE,Node jS,Laravel,AWS(Amazon Web Services),Cli,AI(Deepseek,Chatgpt)**
 <p align="center">
   <img src="arduino ide.png" width="50" title="Ardunio IDE" />
   <img src="laravel-unscreen.gif" width="45" title="Laravel" />
   <img src="node.js_unscreen.gif" width="85" title="Node.js" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" title="Linux" />
   <img src="aws-logo-glitch-unscreen.gif" width="110" title="AWS" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
