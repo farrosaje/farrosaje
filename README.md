@@ -28,3 +28,4 @@ Berikut adalah Alat yang saya gunakan:
 <p align="center">
   <img src="arduino ide.png" width="50" title="Ardunio IDE" />
   <img src="laravel-unscreen.gif" width="45" title="Laravel" />
+  <img src="node.js_unscreen.gif" width="85" title="Node.js" />
