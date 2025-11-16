@@ -27,4 +27,4 @@ Berikut adalah Alat yang saya gunakan:
 - **Tools**: **Arduino IDE,Node jS,Laravel,Cli,AI(Deepseek,Chatgpt)**
 <p align="center">
   <img src="arduino ide.png" width="50" title="Ardunio IDE" />
-  <img src="arduino ide.png" width="50" title="Ardunio IDE" />
+  <img src="laravel-unscreen.gif" width="45" title="Laravel" />
