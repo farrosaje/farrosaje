@@ -20,6 +20,6 @@ Halo! Saya **Farros Abdurrohman**, dan ini adalah repositori GitHub saya. Saya s
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="./peralatan.gif" width="60" height="60"> Alat Tempur<img src="./" width="60" height="60">
+## <img src="Gir otomotif.gif" width="30" height="30"> Alat Tempur <img src="Gir otomotif.gif" width="30" height="30">
 
 Berikut adalah Alat yang saya gunakan:
