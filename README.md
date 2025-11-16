@@ -23,3 +23,7 @@ Halo! Saya **Farros Abdurrohman**, dan ini adalah repositori GitHub saya. Saya s
 ## <img src="Gir otomotif.gif" width="30" height="30"> Alat Tempur <img src="Gir otomotif.gif" width="30" height="30">
 
 Berikut adalah Alat yang saya gunakan:
+
+- **Tools**: **Arduino IDE,Node jS,Laravel,Cli,AI(Deepseek,Chatgpt)**
+<p align="center">
+  <img src="arduino.ide" width="50" title="Linux" />
