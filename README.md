@@ -24,7 +24,7 @@ Halo! Saya **Farros Abdurrohman**, dan ini adalah repositori GitHub saya. Saya s
 
 Berikut adalah Alat yang saya gunakan:
 
-- **Tools**: **Arduino IDE,Node jS,Laravel,Cli,AI(Deepseek,Chatgpt)**
+- **Tools**: **Arduino IDE,Node jS,Laravel,AWS(Amazon Web Services),Cli,AI(Deepseek,Chatgpt)**
 <p align="center">
   <img src="arduino ide.png" width="50" title="Ardunio IDE" />
   <img src="laravel-unscreen.gif" width="45" title="Laravel" />
