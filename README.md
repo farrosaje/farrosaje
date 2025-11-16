@@ -29,4 +29,5 @@ Berikut adalah Alat yang saya gunakan:
   <img src="arduino ide.png" width="50" title="Ardunio IDE" />
   <img src="laravel-unscreen.gif" width="45" title="Laravel" />
   <img src="node.js_unscreen.gif" width="85" title="Node.js" />
-  <img src="node.js_unscreen.gif" width="85" title="Node.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" title="Linux" />
+  <img src="aws-logo-glitch-unscreen.gif" width="110" title="AWS" />
