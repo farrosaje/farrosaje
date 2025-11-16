@@ -17,3 +17,9 @@ Halo! Saya **Farros Abdurrohman**, dan ini adalah repositori GitHub saya. Saya s
 - 💬 Tanyakan tentang saya **Amazon Web Service(AWS),pemograman C/C++,HTML,PHP,Komputer & Jaringan,**
 - 📫 Cara menghubungi saya: **farrosabdurrohman04@gmail.com**
 - ⚡ Fakta menarik: **penjelajah linux, bangun private server, membuat tools dengan ai, coba coba hal baru**
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="./peralatan.gif" width="60" height="60"> Alat Tempur<img src="./" width="60" height="60">
+
+Berikut adalah Alat yang saya gunakan:
