@@ -26,4 +26,5 @@ Berikut adalah Alat yang saya gunakan:
 
 - **Tools**: **Arduino IDE,Node jS,Laravel,Cli,AI(Deepseek,Chatgpt)**
 <p align="center">
-  <img src="arduino.ide" width="50" title="Linux" />
+  <img src="arduino ide.png" width="50" title="Ardunio IDE" />
+  <img src="arduino ide.png" width="50" title="Ardunio IDE" />
