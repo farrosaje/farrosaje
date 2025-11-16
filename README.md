@@ -3,9 +3,9 @@
 </h1>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"
-  
-## <img src="./falling-star-unscreen.gif" height="50" width="50"> Selamat Datang di Repo Saya! <img src="./falling-star-unscreen.gif" height="50" width="50">
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" /> 
+      
+## <img src="./falling-star-unscreen.gif" height="50" width="50"> Selamat Datang di Repo Saya!<img src="./falling-star-unscreen.gif" height="50" width="50">
 
 Halo! Saya **Farros Abdurrohman**, dan ini adalah repositori GitHub saya. Saya suka berkontribusi pada proyek-proyek open source serta Iot dan belajar hal-hal baru setiap hari. Jangan ragu untuk menjelajahi repositori saya dan memberikan masukan!
 
